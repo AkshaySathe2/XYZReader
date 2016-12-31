@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_b54a40a7a8311f06be81664d7e67085338edd73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_2297911607f5376046ed3363730bdfec9146e7cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.2.0_48c6e07302f9e15669c90d82645b5d3d9a328e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\library-2.4.0_8354a16eb59b3044010801e4e57ae727edd1e53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_47b11dee2afc69c8dd61b03a078202c20537aec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_de99d24cad7c0dabda8099227673d47d9f40a9f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_86ca21f76ae0bda59abdf1e3e36374d629a5705a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_88f544564077caf4e43ccd20da6c08fb0e358445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.2.0_97fc292dcdceb5c31b37bf727b62b96a893571bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.0_dde909f956e8bfd08a2340774c388971bd8d8821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.0_eb93d9bf924c6c43ffc7643f014f9f0a820932ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_6dc0565c2d63f24b9058572a7a8173bf6ba7deb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-22.2.0_9c75f1f3a600c71635a27ead4076b4dc8cd4b3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-22.2.0_88414b5be1859b34c901bd2e8cec40a00a460c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_99be39d4826cbb9c28a295196f00d38b51f69fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_cba0b30e882a591830826a3a9752ece04c2a1b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-22.2.0_da84c4ece558ee797314cc22e780af52e2054fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.0_d64c6d0ab1ef68bc8019c04ba90927c691b76a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_cdfa4891b1b7417df62b91defb291f215a3ea57e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.0_4a03b60c32cd40eb0bc784e61e411ef0fe6cc9d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_bec44766b6dc50528c6dc2054b7510144170f233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\volley_21b42bff823f6c11909f0228e03a30fe636e4926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-22.2.0_264c69aef5880ce081d2c40e022f44f5cedde263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_8cf5921a0dccab8cd9500a75647694bcc7eca3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master - Copy\UdacityP5\XYZReader\build\intermediates\pre-dexed\debug\volley_65134128e8e81f8fbb270808c248e0f3459ed257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Akshay\Installed\AndroidStudio\SDKInstallation\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Akshay\Udacity\UdacityP5-master\UdacityP5-master\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_a955cca89ea025cc159b2ff9a628bf9cae7415ad.jar" />
+    </item>
+
+</items>
